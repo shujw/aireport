@@ -1,10 +1,6 @@
 {
 	"list": [
 		{
-			"name": "嗯",
-			"path": "demo/homepage/finereport.frm"
-		},
-		{
 			"name": "分类合计",
 			"path": "分类合计.cpt"
 		},

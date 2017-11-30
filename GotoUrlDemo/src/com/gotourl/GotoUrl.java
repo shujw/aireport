@@ -63,11 +63,7 @@ public class GotoUrl {
 			if (tmp.contains(".frm")) {
 				reportPath = "formlet=" + tmp;
 			}
-		} else {
-			resultMap.put("<未找到合适的报表，请重新呼叫。>", "");
-			return resultMap;
 		}
-		
 		String URI = baseURI + reportPath;
 
 		// 启用系统默认浏览器来打开网址。

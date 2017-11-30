@@ -17,14 +17,15 @@ public class FindReport {
 	public Map<String, String> findReport(List<String> strCmd) {
 		Map<String, String> resultMap = new HashMap<String, String>();
 		String reportPath = "";
-
+		
 		Map<String, String> reportList = getReportList();
 
 		// TODO
 		Test test = new Test();
 		List<String> testCmd = strCmd;
-		// List<String> testCmd = test.parseStringListResult();
-
+//		List<String> testCmd = test.parseStringListResult();
+		
+		
 		for (Entry<String, String> entry : reportList.entrySet()) {
 			System.out.println("reportList ##### " + entry.getKey());
 			boolean isExist = false;
@@ -35,7 +36,7 @@ public class FindReport {
 					break;
 				}
 			}
-
+			
 			if (isExist) {
 				resultMap.put(entry.getKey(), entry.getValue());
 			}
