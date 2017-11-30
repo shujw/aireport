@@ -1,0 +1,316 @@
+{
+	"list": [
+		{
+			"name": "分类合计",
+			"path": "分类合计.cpt"
+		},
+		{
+			"name": "条件属性",
+			"path": "条件属性.cpt"
+		},
+		{
+			"name": "第一张模板",
+			"path": "第一张模板.cpt"
+		},
+		{
+			"name": "business",
+			"path": "demo/analytics/business.frm"
+		},
+		{
+			"name": "dashbord",
+			"path": "demo/analytics/dashbord.frm"
+		},
+		{
+			"name": "get",
+			"path": "demo/analytics/get.frm"
+		},
+		{
+			"name": "get1",
+			"path": "demo/analytics/get1.frm"
+		},
+		{
+			"name": "Product&Cost",
+			"path": "demo/analytics/Product&Cost.cpt"
+		},
+		{
+			"name": "product",
+			"path": "demo/analytics/product.cpt"
+		},
+		{
+			"name": "product2",
+			"path": "demo/analytics/product2.frm"
+		},
+		{
+			"name": "sale_month",
+			"path": "demo/analytics/sale_month.frm"
+		},
+		{
+			"name": "SwitchingDimension",
+			"path": "demo/analytics/SwitchingDimension.cpt"
+		},
+		{
+			"name": "tongji",
+			"path": "demo/analytics/tongji.cpt"
+		},
+		{
+			"name": "城市课堂签到",
+			"path": "demo/analytics/城市课堂签到.frm"
+		},
+		{
+			"name": "AssetLiabilitieEquity",
+			"path": "demo/analytics/AssetLiabilitieEquity.cpt"
+		},
+		{
+			"name": "AssetLiabilitieEquity",
+			"path": "demo/analytics/AssetLiabilitieEquity.frm"
+		},
+		{
+			"name": "AssetLiabilitieEquitys",
+			"path": "demo/analytics/AssetLiabilitieEquitys.cpt"
+		},
+		{
+			"name": "AssetLiabilitieEquitys",
+			"path": "demo/analytics/AssetLiabilitieEquitys.frm"
+		},
+		{
+			"name": "AssetLiabilitieEquityt",
+			"path": "demo/analytics/AssetLiabilitieEquityt.cpt"
+		},
+		{
+			"name": "AssetLibbilititieEquityt_pad1",
+			"path": "demo/analytics/AssetLibbilititieEquityt_pad1.frm"
+		},
+		{
+			"name": "Balance",
+			"path": "demo/analytics/Balance.cpt"
+		},
+		{
+			"name": "Bathory",
+			"path": "demo/analytics/Bathory.cpt"
+		},
+		{
+			"name": "cashflow",
+			"path": "demo/analytics/cashflow.cpt"
+		},
+		{
+			"name": "cashflow",
+			"path": "demo/analytics/cashflow.frm"
+		},
+		{
+			"name": "cashflow1",
+			"path": "demo/analytics/cashflow1.cpt"
+		},
+		{
+			"name": "cashflow_phone",
+			"path": "demo/analytics/cashflow_phone.frm"
+		},
+		{
+			"name": "dupont",
+			"path": "demo/analytics/dupont.cpt"
+		},
+		{
+			"name": "DynamicProfitAnalysis",
+			"path": "demo/analytics/DynamicProfitAnalysis.cpt"
+		},
+		{
+			"name": "EnergyMonitor",
+			"path": "demo/analytics/EnergyMonitor.frm"
+		},
+		{
+			"name": "EVA",
+			"path": "demo/analytics/EVA.cpt"
+		},
+		{
+			"name": "F-score model",
+			"path": "demo/analytics/F-score model.cpt"
+		},
+		{
+			"name": "FinaceAnalytics",
+			"path": "demo/analytics/FinaceAnalytics.frm"
+		},
+		{
+			"name": "FinaceAnalytics_phone",
+			"path": "demo/analytics/FinaceAnalytics_phone.frm"
+		},
+		{
+			"name": "FinaceAnalytics_phone2",
+			"path": "demo/analytics/FinaceAnalytics_phone2.frm"
+		},
+		{
+			"name": "get",
+			"path": "demo/analytics/get.frm"
+		},
+		{
+			"name": "get_phone",
+			"path": "demo/analytics/get_phone.frm"
+		},
+		{
+			"name": "gis",
+			"path": "demo/analytics/gis.frm"
+		},
+		{
+			"name": "incomestatement",
+			"path": "demo/analytics/incomestatement.cpt"
+		},
+		{
+			"name": "mobile_cw_huikuan_phone",
+			"path": "demo/analytics/mobile_cw_huikuan_phone.cpt"
+		},
+		{
+			"name": "pallip",
+			"path": "demo/analytics/pallip.cpt"
+		},
+		{
+			"name": "profitstructure (2)",
+			"path": "demo/analytics/profitstructure (2).cpt"
+		},
+		{
+			"name": "profitstructure",
+			"path": "demo/analytics/profitstructure.cpt"
+		},
+		{
+			"name": "profitstructure_phone",
+			"path": "demo/analytics/profitstructure_phone.frm"
+		},
+		{
+			"name": "ReceivablePayable",
+			"path": "demo/analytics/ReceivablePayable.cpt"
+		},
+		{
+			"name": "ReceivablePayable",
+			"path": "demo/analytics/ReceivablePayable.frm"
+		},
+		{
+			"name": "ReceivablePayable_phone",
+			"path": "demo/analytics/ReceivablePayable_phone.frm"
+		},
+		{
+			"name": "Reimbursement_phone",
+			"path": "demo/analytics/Reimbursement_phone.frm"
+		},
+		{
+			"name": "StockMarket",
+			"path": "demo/analytics/StockMarket.frm"
+		},
+		{
+			"name": "transfer",
+			"path": "demo/analytics/transfer.frm"
+		},
+		{
+			"name": "transfer_phone",
+			"path": "demo/analytics/transfer_phone.frm"
+		},
+		{
+			"name": "transfer_phone1",
+			"path": "demo/analytics/transfer_phone1.frm"
+		},
+		{
+			"name": "Z-score model",
+			"path": "demo/analytics/Z-score model.cpt"
+		},
+		{
+			"name": "净利润_2",
+			"path": "demo/analytics/净利润_2.frm"
+		},
+		{
+			"name": "净利润_3",
+			"path": "demo/analytics/净利润_3.cpt"
+		},
+		{
+			"name": "净资产收益率",
+			"path": "demo/analytics/净资产收益率.frm"
+		},
+		{
+			"name": "利润中心",
+			"path": "demo/analytics/利润中心.frm"
+		},
+		{
+			"name": "历年经营趋势分析",
+			"path": "demo/analytics/历年经营趋势分析.frm"
+		},
+		{
+			"name": "存货_3",
+			"path": "demo/analytics/存货_3.frm"
+		},
+		{
+			"name": "应收_2",
+			"path": "demo/analytics/应收_2.frm"
+		},
+		{
+			"name": "现金流",
+			"path": "demo/analytics/现金流.frm"
+		},
+		{
+			"name": "生产库存分析",
+			"path": "demo/analytics/生产库存分析.frm"
+		},
+		{
+			"name": "生产库存分析_pad",
+			"path": "demo/analytics/生产库存分析_pad.frm"
+		},
+		{
+			"name": "财务综合_主营业务收入",
+			"path": "demo/analytics/财务综合_主营业务收入.frm"
+		},
+		{
+			"name": "财务综合_全部成本",
+			"path": "demo/analytics/财务综合_全部成本.frm"
+		},
+		{
+			"name": "财务综合_净利润",
+			"path": "demo/analytics/财务综合_净利润.frm"
+		},
+		{
+			"name": "财务综合_流动资产",
+			"path": "demo/analytics/财务综合_流动资产.frm"
+		},
+		{
+			"name": "财务综合_长期资产",
+			"path": "demo/analytics/财务综合_长期资产.frm"
+		},
+		{
+			"name": "财务综合指标",
+			"path": "demo/analytics/财务综合指标.cpt"
+		},
+		{
+			"name": "资金分析",
+			"path": "demo/analytics/资金分析.cpt"
+		},
+		{
+			"name": "资金分析_pad",
+			"path": "demo/analytics/资金分析_pad.frm"
+		},
+		{
+			"name": "资金分析_存款_柱形钻取",
+			"path": "demo/analytics/资金分析_存款_柱形钻取.cpt"
+		},
+		{
+			"name": "资金分析_应付_柱形钻取",
+			"path": "demo/analytics/资金分析_应付_柱形钻取.cpt"
+		},
+		{
+			"name": "资金分析_应付票据表格",
+			"path": "demo/analytics/资金分析_应付票据表格.cpt"
+		},
+		{
+			"name": "资金分析_贷款_柱形钻取",
+			"path": "demo/analytics/资金分析_贷款_柱形钻取.cpt"
+		},
+		{
+			"name": "资金分析_贷款表格",
+			"path": "demo/analytics/资金分析_贷款表格.cpt"
+		},
+		{
+			"name": "资金分析_资金分析表格",
+			"path": "demo/analytics/资金分析_资金分析表格.cpt"
+		},
+		{
+			"name": "销售_3",
+			"path": "demo/analytics/销售_3.frm"
+		},
+		{
+			"name": "销售_4",
+			"path": "demo/analytics/销售_4.cpt"
+		}
+	]
+}
