@@ -311,6 +311,11 @@
 		{
 			"name": "销售_4",
 			"path": "demo/analytics/financial2/销售_4.cpt"
+		},
+		{
+			"name": "",
+			"path": "demo/parameter/season.cpt",
+			"param":[{"前五年":"year=5"},{"前十年":"year=10"}]
 		}
 	]
 }
